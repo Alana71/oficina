@@ -1,0 +1,31 @@
+https://github.com/Alana71/alana.githttps://github.com/Alana71/alana.git
+<!DOCTYPEhtml>
+<html>
+<head>
+<title> <img src="logocemi.png">
+	<ul>
+  <li><a href="#Pagina inicial">Home</a></li>
+  <li><a href="#cardapio">Cardápio</a></li>
+  <li><a href="#contato">Contato</a></li>
+  <li style="float:right"></li>
+</ul>
+ </title>
+</head>
+
+<body>
+<h1> <strong> Cardápio da Semana </strong> </h1>
+<ul>
+  <li> <strong> 29/04 </strong> Arroz, feijão, carne suína e ovos </li>
+  <li> <strong> 30/04 </strong> Arroz, feijão, sobre-coxa de frango assada e salada</li>
+  <li> <strong> 31/04 </strong> Macarrão com peito de frango</li>
+  <li> <strong> 01/05 </strong> Arroz, feijão e peixe ao molho</li>
+  <li> <strong> 02/05 </strong> Arroz, feijão. frango ao molho e salada de pepino </li>
+  <li> <strong> Café da manhã: biscoito com leite e frutas </strong></li>
+</ul>
+</body>
+
+</div>
+    <div class="footer">
+        <a href="https://www.cemigama.org.br/cemi"> Site oficial </a>
+    </div>
+</html>
